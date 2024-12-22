@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @kf45mc
 - 👀 I’m interested in running minecraft servers
 - 🌱 I’m currently learning java code
-- 💞️ I’m looking to collaborate on java code
-- 📫 How to reach me. You can reach me through discord, my discord is kf45mc
+- 📫 You can reach me through discord, my discord is kf45mc
 - 😄 Pronouns: he/him
 
 <!---
